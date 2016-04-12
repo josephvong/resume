@@ -95,19 +95,19 @@
 				<ul id="soft_list" class="pro_list">
 					<li>
 						<span>Window/SQL Server </span>
-						<div class="progress" name="Server_Language"><span></span></div>
+						<div class="progress"><span></span></div>
 					</li>
 					<li>
 						<span>Photoshop图像处理</span>
-						<div class="progress" name="Photoshop"><span></span></div>
+						<div class="progress"><span></span></div>
 					</li>
 					<li>
 						<span>Dreamwear / Editplus</span>
-						<div class="progress" name="Dreamwear_Editplus"><span></span></div>
+						<div class="progress"><span></span></div>
 					</li>
 					<li>
 						<span>Apache/MySql</span>
-						<div class="progress" name="Apache_MySql"><span></span></div>
+						<div class="progress"><span></span></div>
 					</li>
 				</ul>
 			</div>
